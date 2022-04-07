@@ -1,9 +1,10 @@
 links:
 - name: PLANES
-  link: /portfolio/
+  link: /planes/
 - name: BLOG
   link: /blog/
 - name: NOSOTROS
-  link: /about/
+  link: /nosotros/
 - name: CONTACTO
-  link: /contact/
+  link: /contacto/
+  
