@@ -1,9 +1,10 @@
 ---
 name: Tipos de Paseo
 subtitle: Encuentra el paseo ideal para tu cachorro.
-external_url: 
 image_path: /images/clients/normal.jpg
 ---
+
+![normal](https://user-images.githubusercontent.com/95257716/162504046-bb474229-eaaa-4473-939c-6cda9442b2f0.jpg)
 
 ## **Paseo Normal.**
 
