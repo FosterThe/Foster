@@ -5,7 +5,7 @@ external_url:
 image_path: /images/clients/normal.jpg
 ---
 
-image_path: /images/clients/normal.jpg
+<a href="/images/normal.jpg"/a>  
 
 ## **Paseo Normal.**
 
