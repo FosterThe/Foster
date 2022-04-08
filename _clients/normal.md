@@ -5,8 +5,6 @@ external_url:
 image_path: /images/clients/normal.jpg
 ---
 
-![Paseo Normal](images/clients/normal.jpg)
-
 ## **Paseo Normal.**
 
 **Descripción del Paseo.**
