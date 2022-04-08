@@ -32,4 +32,4 @@ Duración: 1 Hora.
 
 Caminatas de intensidad personalizada de una a dos horas de duración, ideal para perros que gusten de paseos particulares. Este paseo es exclusivo para el cachorro en turno y no se comparte con otros perritos.
 
-Duración: 1 Hora.
+Duración: 1 Hora / 2 Horas (Depende del dueño).
