@@ -5,8 +5,7 @@ external_url:
 image_path: /images/clients/normal.jpg
 ---
 
-<a href="/images/clients/normal.jpg"/a> 
-
+---
 ## **Paseo Normal.**
 
 **Descripción del Paseo.**
@@ -15,6 +14,8 @@ Caminatas de intensidad media de una hora de duración, ideal para perros jóven
 
 Duración: 1 Hora.
 
+image_path: /images/clients/normal.jpg
+---
 
 ## **Paseo Fit.**
 
