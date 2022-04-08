@@ -1,8 +1,8 @@
 ---
-name: Cause Template
+name: Paseo Normal
 subtitle: Paseo Normal
 external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+image_path: /images/clients/normal.jpg
 ---
 
 **Descripción del Paseo.**
