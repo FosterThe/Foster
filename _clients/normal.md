@@ -4,7 +4,7 @@ subtitle: Encuentra el paseo ideal para tu cachorro.
 image_path: /images/clients/normal.jpg
 ---
 
-![normal](https://user-images.githubusercontent.com/95257716/162504046-bb474229-eaaa-4473-939c-6cda9442b2f0.jpg)
+![normal](https://user-images.githubusercontent.com/95257716/164797710-1f974003-4ab5-4d74-8577-c6b0b3dccec2.jpg)
 
 ## **Paseo Normal.**
 
@@ -13,9 +13,6 @@ image_path: /images/clients/normal.jpg
 Caminatas de intensidad media de una hora de duración, ideal para perros jóvenes con actividad física media. El paseo puede compartirse con otros dos perritos más.
 
 Duración: 1 Hora.
-
-
-![fit](https://user-images.githubusercontent.com/95257716/164797177-9977270f-2a8e-4c99-8098-fd06e9275b74.jpg)
 
 ## **Paseo Fit.**
 
