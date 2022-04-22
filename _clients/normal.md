@@ -15,6 +15,8 @@ Caminatas de intensidad media de una hora de duración, ideal para perros jóven
 Duración: 1 Hora.
 
 
+![fit](https://user-images.githubusercontent.com/95257716/164797177-9977270f-2a8e-4c99-8098-fd06e9275b74.jpg)
+
 ## **Paseo Fit.**
 
 Caminatas de intensidad alta con periodos de trote, diseñado para que logren liberar energía y se mantengan relajados el resto del día. Su duración es de una hora y es ideal para perros que requieren mayor actividad física. El paseo puede compartirse con un perrito más.
