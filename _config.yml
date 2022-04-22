@@ -85,8 +85,6 @@ defaults:
     values:
       layout: "default"
 
-# -----------
-# CloudCannon
 
 _select_data:
   social_icons:
