@@ -4,8 +4,6 @@ subtitle: Encuentra el paseo ideal para tu cachorro.
 image_path: /images/clients/normal.jpg
 ---
 
-![normal](https://user-images.githubusercontent.com/95257716/164797710-1f974003-4ab5-4d74-8577-c6b0b3dccec2.jpg)
-
 ## **Paseo Normal.**
 
 **Descripción del Paseo.**
