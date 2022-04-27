@@ -26,6 +26,6 @@ Duración: 1 Hora.
 
 ## **Paseo VIP**
 
-Caminatas de intensidad personalizada de una a dos horas de duración, ideal para perros que gusten de paseos particulares. Este paseo es exclusivo para el cachorro en turno y no se comparte con otros perritos.
+Caminatas de intensidad personalizada de una hora de duración, ideal para perros que gusten de paseos personales. Este paseo es exclusivo para el cachorro en turno y no se comparte con otros perritos.
 
-Duración: 1 Hora / 2 Horas (Depende del dueño).
+Duración: 1 Hora.
