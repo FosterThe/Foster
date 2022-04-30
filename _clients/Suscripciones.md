@@ -11,3 +11,7 @@ Elije el que se adapte mejor a tu compañer@ perrun@.
 
 
 ![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/165677772-41e894ee-b21d-4a4a-af9d-ff0deac9d6f1.jpg)
+
+
+* Área de servicio: 
+Morelia Centro y Alrededores, Chapultepec, La Huerta.
