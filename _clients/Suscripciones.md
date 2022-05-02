@@ -10,7 +10,7 @@ Nuestros planes incluyen un total de 6 paseos a la semana, los días lunes a vie
 Elije el que se adapte mejor a tu compañer@ perrun@.
 
 
-![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/165677772-41e894ee-b21d-4a4a-af9d-ff0deac9d6f1.jpg)
+![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/166170962-e8154070-cdbd-4225-a20e-64c30add437b.jpg)
 
 
 * Área de servicio: 
