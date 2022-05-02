@@ -9,6 +9,10 @@ Nuestros planes incluyen un total de 6 paseos a la semana, los días lunes a vie
 
 Elije el que se adapte mejor a tu compañer@ perrun@.
 
+Si únicamente buscas agendar un paseo a la semana o algunos días durante la misma, los PASEOS FLEXIBLES son tu mejor opción. Ten presente que los paseos flexibles se adaptan al tipo de paseo que requiera tu cachorro (Normal, Fit o Care) y es probable que se comparta paseo con otro perrito de las mismas características.
+
+Para paseos VIP en la modalidad Flexible, o alguna variante o duda que no se incluya en esta página, puedes hacérnosla saber durante el proceso de agenda.
+
 
 ![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/166170962-e8154070-cdbd-4225-a20e-64c30add437b.jpg)
 
