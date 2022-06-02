@@ -8,6 +8,8 @@ show_comments: true
 
 **¿Cuál es el mejor momento del día para pasear a tu perro?**
 
+![memes](https://user-images.githubusercontent.com/95257716/171557942-883965cd-2225-475a-ab3c-f7da01c1af3a.jpg)
+
 Salir a pasear es un momento muy especial para tu perro, pues para ellos representa un momento ideal para sentirse estimulados y socializar con otros perros y/o personas. Considerando lo anterior, conocer cuál es un horario adecuado para conseguir un paseo de calidad y que su día a día sea todo lo bueno que cabría esperar.
 
 Resulta importante mencionar que los paseos deben realizarse **idealmente a la misma hora**, es decir, un horario muy regular  que les permita anticipar que saldrán a la calle. Aunque esto no parezca relevante, lo cierto es que los perros son criaturas de hábitos, por lo que saber anticiparse les ayudará a estar más equilibrados.
