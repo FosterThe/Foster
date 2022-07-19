@@ -12,6 +12,7 @@ Foster The Puppies te ofrece estancia de cachorros durante el día.
  • Tallas pequeñas y medianas 🥳
  
  • Instalaciones Céntricas 😱
+ 
 
 Requisitos:
 
@@ -22,8 +23,10 @@ Requisitos:
  • No hembras en celo o el último tercio de gestación.
  
  • No cachorros agresivos.
+ 
 
 Costos:
+
  • Talla chica: 100 $
  
  • Talla Mediana: 130 $
