@@ -1,7 +1,7 @@
 ---
 name: Guarderia Canina
 subtitle: Estancia de cachorros durante el día.
-image_path: /images/clients/Suscripciones.jpg
+image_path: /images/clients/Guarderia.jpg
 ---
 Que no se quede tu cachorro sólito en casa mientras vuelves 🙁 🐕
 
@@ -20,8 +20,6 @@ Requisitos:
 Costos:
  • Talla chica: 100 $
  • Talla Mediana: 130 $
-
-![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/166170962-e8154070-cdbd-4225-a20e-64c30add437b.jpg)
 
 
 * Horarios de servicio: 
