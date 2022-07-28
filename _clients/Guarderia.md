@@ -27,9 +27,9 @@ Requisitos:
 
 Costos:
 
- • Talla chica: 100 $
+ • Talla chica: 80 $
  
- • Talla Mediana: 130 $
+ • Talla Mediana: 100 $
 
 
 * Horarios de servicio: 
