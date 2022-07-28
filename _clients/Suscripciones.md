@@ -14,7 +14,7 @@ Si únicamente buscas agendar un paseo a la semana o algunos días durante la mi
 Para paseos VIP en la modalidad Flexible, o alguna variante o duda que no se incluya en esta página, puedes hacérnosla saber durante el proceso de agenda.
 
 
-![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/166170962-e8154070-cdbd-4225-a20e-64c30add437b.jpg)
+![PLANES SUSCRIPCIONES](https://user-images.githubusercontent.com/95257716/181414414-d4bf67aa-5139-4fed-acac-50866ee48606.jpg)
 
 
 * Área de servicio: 
